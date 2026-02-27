@@ -1,0 +1,7 @@
+Entity DCID,Entity properties isoCode,Entity properties name,Variable DCID,Variable observation date,Variable observation metadata importName,Variable observation metadata provenanceUrl,Variable observation metadata scalingFactor,Variable observation metadata unit,Variable observation metadata unitDisplayName,Variable observation value,Variable properties name
+country/GBR,GB,United Kingdom,Count_Person_25To34Years,2023,OECDRegionalDemography_Person_Age_StatVarAgg,https://datacommons.org/,,,,9127945,25-34
+country/GBR,GB,United Kingdom,Count_Person_35To44Years,2023,OECDRegionalDemography_Person_Age_StatVarAgg,https://datacommons.org/,,,,9082819,35-44
+country/GBR,GB,United Kingdom,Count_Person_45To54Years,2023,OECDRegionalDemography_Person_Age_StatVarAgg,https://datacommons.org/,,,,8566120,45-54
+country/GBR,GB,United Kingdom,Count_Person_55To64Years,2023,OECDRegionalDemography_Person_Age_StatVarAgg,https://datacommons.org/,,,,8806934,55-64
+country/GBR,GB,United Kingdom,Count_Person_65To74Years,2023,OECDRegionalDemography_Person_Age_StatVarAgg,https://datacommons.org/,,,,6610168,65-74
+country/GBR,GB,United Kingdom,Count_Person_75OrMoreYears,2023,OECDRegionalDemography_Person_Age_StatVarAgg,https://datacommons.org/,,,,6313998,75-More
